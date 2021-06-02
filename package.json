@@ -1,0 +1,17 @@
+{
+  "name": "MapSelectBot",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Arozal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "eslint": "^7.13.0",
+    "jimp": "^0.16.1"
+  }
+}
